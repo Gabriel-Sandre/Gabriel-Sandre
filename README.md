@@ -15,7 +15,7 @@ pedidos e notas fiscais no TOTVS Protheus. É de lá que vem boa parte das ideia
 
 | Projeto | O que mostra | Stack |
 |---|---|---|
-| [**helpdesk-aspnet-mvc**](https://github.com/Gabriel-Sandre/helpdesk-aspnet-mvc) | Sistema de chamados com três perfis de acesso, senha com PBKDF2 + salt e painel de indicadores | C# · ASP.NET Core MVC · EF Core · SQLite/SQL Server |
+| [**helpdesk-aspnet-mvc**](https://github.com/Gabriel-Sandre/helpdesk-aspnet-mvc) | Sistema de chamados com três perfis de acesso, senha com PBKDF2 + salt, painel de indicadores e testes de integração | C# · ASP.NET Core MVC · EF Core · SQLite/SQL Server · xUnit |
 | [**askdoc-api**](https://github.com/Gabriel-Sandre/askdoc-api) | API de perguntas sobre documentos (RAG) com busca híbrida, citações verificáveis e Docker | Python · FastAPI · PostgreSQL/pgvector · pytest |
 | [**projetos-python**](https://github.com/Gabriel-Sandre/projetos-python) | Três apps em Python: monitor de segurança de logs SSH, controle de gastos e pomodoro | Python · Flask · SQLite · pytest |
 | [**formacao-infnet**](https://github.com/Gabriel-Sandre/formacao-infnet) | Trabalhos da faculdade, com código e relatórios | Java · C# |
@@ -23,7 +23,7 @@ pedidos e notas fiscais no TOTVS Protheus. É de lá que vem boa parte das ideia
 #### Com o que trabalho
 
 `Java` `C#` `.NET` `ASP.NET Core` `Entity Framework Core` `Python` `FastAPI` `Flask`
-`SQL` `SQL Server` `PostgreSQL` `SQLite` `Git` `GitHub Actions` `Docker` `pytest` `Linux`
+`SQL` `SQL Server` `PostgreSQL` `SQLite` `Git` `GitHub Actions` `Docker` `xUnit` `pytest` `Linux`
 
 #### Estudando agora
 
